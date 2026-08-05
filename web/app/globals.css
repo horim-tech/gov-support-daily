@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f9f9f7;
+  --foreground: #0b0b0b;
+  --surface: #fcfcfb;
+  --text-secondary: #52514e;
+  --text-muted: #898781;
+  --border: rgba(11, 11, 11, 0.1);
+  --gridline: #e1e0d9;
+
+  --source-busan: #2a78d6;
+  --source-dongnae: #eb6834;
+  --source-sojingong: #1baf7a;
+  --source-jungjingong: #eda100;
+  --status-new: #0ca30c;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+  --color-border: var(--border);
+  --color-gridline: var(--gridline);
+  --color-source-busan: var(--source-busan);
+  --color-source-dongnae: var(--source-dongnae);
+  --color-source-sojingong: var(--source-sojingong);
+  --color-source-jungjingong: var(--source-jungjingong);
+  --color-status-new: var(--status-new);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --background: #0d0d0d;
+    --foreground: #ffffff;
+    --surface: #1a1a19;
+    --text-secondary: #c3c2b7;
+    --text-muted: #898781;
+    --border: rgba(255, 255, 255, 0.1);
+    --gridline: #2c2c2a;
+
+    --source-busan: #3987e5;
+    --source-dongnae: #d95926;
+    --source-sojingong: #199e70;
+    --source-jungjingong: #c98500;
+    --status-new: #0ca30c;
+  }
+}
+
+:root[data-theme="dark"] {
+  --background: #0d0d0d;
+  --foreground: #ffffff;
+  --surface: #1a1a19;
+  --text-secondary: #c3c2b7;
+  --text-muted: #898781;
+  --border: rgba(255, 255, 255, 0.1);
+  --gridline: #2c2c2a;
+
+  --source-busan: #3987e5;
+  --source-dongnae: #d95926;
+  --source-sojingong: #199e70;
+  --source-jungjingong: #c98500;
+  --status-new: #0ca30c;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, -apple-system, "Segoe UI", sans-serif;
+}

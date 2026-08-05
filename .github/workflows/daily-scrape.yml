@@ -1,0 +1,36 @@
+name: 매일 정부지원사업 수집
+
+on:
+  schedule:
+    # 22:00 UTC = 07:00 KST (다음날)
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install -r scraper/requirements.txt
+
+      - name: 스크래퍼 실행
+        env:
+          BIZINFO_API_KEY: ${{ secrets.BIZINFO_API_KEY }}
+        run: python scraper/main.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "gov-support-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: 정부지원사업 데이터 갱신 $(date -u +%Y-%m-%d)"
+          git push
