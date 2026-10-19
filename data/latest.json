@@ -1,6 +1,30 @@
 [
   {
     "source": "동래구",
+    "title": "2026년 정기분 이행강제금 부과 위반건축물 시정명령 공시송달",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45502&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-19",
+    "period_start": null,
+    "period_end": null,
+    "target": "건축관리과",
+    "summary": "동래구 공고 제2026-1250호",
+    "external_id": "45502",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "2027년도 상반기 동래문화회관 정기대관 공고",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45495&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-19",
+    "period_start": null,
+    "period_end": null,
+    "target": "문화시설사업소",
+    "summary": "동래구 문화시설사업소 공고 제2026-20호",
+    "external_id": "45495",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
     "title": "하천점용허가 고시(호외발행)",
     "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45465&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
     "posted_date": "2026-10-16",
@@ -213,30 +237,6 @@
     "target": "자원순환과",
     "summary": "동래구 공고 제2026-1229호",
     "external_id": "45478",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2026년 10월 취득세 고지서 및 독촉장 송달 불능분 공시송달",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45477&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-15",
-    "period_start": null,
-    "period_end": null,
-    "target": "세무1과",
-    "summary": "동래구 공고 제2026-1228호",
-    "external_id": "45477",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "건축공사 안전점검 수행기관 지정 공고(온천동 1437-6번지)",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45469&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-15",
-    "period_start": null,
-    "period_end": null,
-    "target": "건축과",
-    "summary": "동래구 공고 제2026-1222호",
-    "external_id": "45469",
     "is_new": false
   }
 ]
