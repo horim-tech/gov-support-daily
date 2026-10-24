@@ -9,7 +9,7 @@
     "target": "하천관리과",
     "summary": "동래구 고시 제2026-139호",
     "external_id": "45517",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -21,7 +21,7 @@
     "target": "하천관리과",
     "summary": "동래구 고시 제2026-138호",
     "external_id": "45516",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -33,6 +33,30 @@
     "target": "하천관리과",
     "summary": "동래구 고시 제2026-137호",
     "external_id": "45515",
+    "is_new": false
+  },
+  {
+    "source": "동래구",
+    "title": "정기(정밀안전) 검사 미수검 기계식주...",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45535&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-23",
+    "period_start": null,
+    "period_end": null,
+    "target": "교통과",
+    "summary": "동래구 공고 제2026-1266호",
+    "external_id": "45535",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "2026년 하반기 감염병예방사업 기간...",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45534&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-23",
+    "period_start": null,
+    "period_end": null,
+    "target": "보건행정과",
+    "summary": "동래구 보건소 보건행정과 공고 제2026-24호",
+    "external_id": "45534",
     "is_new": true
   },
   {
@@ -57,7 +81,7 @@
     "target": "건설과",
     "summary": "동래구 공고 제2026-1265호",
     "external_id": "45531",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -69,7 +93,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1264호",
     "external_id": "45530",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -81,7 +105,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1263호",
     "external_id": "45529",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -93,7 +117,7 @@
     "target": "건강증진과",
     "summary": "동래구 공고 제2026-1262호",
     "external_id": "45528",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -105,7 +129,7 @@
     "target": "재무과",
     "summary": "동래구 공고 제2026-1261호",
     "external_id": "45527",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -129,7 +153,7 @@
     "target": "사직3동",
     "summary": "동래구 사직3동 공고 제2026-42호",
     "external_id": "45525",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -141,7 +165,7 @@
     "target": "수민동",
     "summary": "동래구 수민동 공고 제2026-28호",
     "external_id": "45526",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -213,30 +237,6 @@
     "target": "건설과",
     "summary": "동래구 공고 제2026-1247호",
     "external_id": "45499",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2025년 3분기 거주불명등록자 행정상 관리주소 이전 2차 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45518&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-21",
-    "period_start": null,
-    "period_end": null,
-    "target": "온천1동",
-    "summary": "동래구 온천1동 공고 제2026-42호",
-    "external_id": "45518",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "금연구역 흡연과태료 부과 고지서 반송 분 공시송달 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45508&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-20",
-    "period_start": null,
-    "period_end": null,
-    "target": "건강증진과",
-    "summary": "동래구 고시 제2026-135호",
-    "external_id": "45508",
     "is_new": false
   }
 ]
