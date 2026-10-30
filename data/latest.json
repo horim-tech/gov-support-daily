@@ -1,6 +1,54 @@
 [
   {
     "source": "동래구",
+    "title": "부산광역시 동래구 건축위원회 위원 공개모집 공고",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45570&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-30",
+    "period_start": null,
+    "period_end": null,
+    "target": "건축과",
+    "summary": "동래구 공고 제2026-1290호",
+    "external_id": "45570",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "무단방치 이륜차 자진처리명령 공시송달 공고(4대)",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45567&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-29",
+    "period_start": null,
+    "period_end": null,
+    "target": "교통과",
+    "summary": "동래구 공고 제2026-1288호",
+    "external_id": "45567",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "무단방치 (이륜)자동차 자진처리안내 공시송달 공고 (2대)",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45566&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-29",
+    "period_start": null,
+    "period_end": null,
+    "target": "교통과",
+    "summary": "동래구 공고 제2026-1287호",
+    "external_id": "45566",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "2026년 9월 정기분 재산세 독촉장 공시송달",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45565&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-29",
+    "period_start": null,
+    "period_end": null,
+    "target": "세무2과",
+    "summary": "동래구 공고 제2026-1286호",
+    "external_id": "45565",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
     "title": "2026년도 하반기 목조문화유산 순찰근무자 채용 공고",
     "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45561&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
     "posted_date": "2026-10-29",
@@ -9,7 +57,7 @@
     "target": "문화관광과",
     "summary": "동래구 공고 제2026-1285호",
     "external_id": "45561",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -21,7 +69,7 @@
     "target": "일자리경제과",
     "summary": "동래구 공고 제2026-1284호",
     "external_id": "45559",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -33,7 +81,7 @@
     "target": "건설과",
     "summary": "동래구 공고 제2026-1283호",
     "external_id": "45558",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -45,7 +93,7 @@
     "target": "녹지공원과",
     "summary": "동래구 공고 제2026-1281호",
     "external_id": "45554",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -57,6 +105,18 @@
     "target": "토지정보과",
     "summary": "동래구 공고 제2026-1276호",
     "external_id": "45546",
+    "is_new": false
+  },
+  {
+    "source": "동래구",
+    "title": "2026년 하반기 임기만료에 따른 안락2동 통장 공개모집 공고",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45562&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-29",
+    "period_start": null,
+    "period_end": null,
+    "target": "안락2동",
+    "summary": "동래구 안락2동 공고 제2026-26호",
+    "external_id": "45562",
     "is_new": true
   },
   {
@@ -69,7 +129,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1282호",
     "external_id": "45557",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -117,7 +177,7 @@
     "target": "명장1동",
     "summary": "동래구 명장1동 공고 제2026-26호",
     "external_id": "45556",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -129,7 +189,7 @@
     "target": "보건행정과",
     "summary": "동래구 보건소 보건행정과 공고 제2026-25호",
     "external_id": "45560",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -177,66 +237,6 @@
     "target": "온천3동",
     "summary": "동래구 온천3동 공고 제2026-45호",
     "external_id": "45544",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2026년 온천1동 주민자치위원 공개모집",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45553&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-27",
-    "period_start": null,
-    "period_end": null,
-    "target": "온천1동",
-    "summary": "동래구 온천1동 공고 제2026-43호",
-    "external_id": "45553",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2026년 주민등록 장기 거주불명자 사실조사에 따른 최고공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45551&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-27",
-    "period_start": null,
-    "period_end": null,
-    "target": "수민동",
-    "summary": "동래구 수민동 공고 제2026-29호",
-    "external_id": "45551",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "명장1동 신규 주민자치위원 인적사항 공개",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45549&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-27",
-    "period_start": null,
-    "period_end": null,
-    "target": "명장1동",
-    "summary": "동래구 명장1동 공고 제2026-25호",
-    "external_id": "45549",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "하천점용허가 고시(호외발행)",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45533&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-26",
-    "period_start": null,
-    "period_end": null,
-    "target": "하천관리과",
-    "summary": "동래구 고시 제2026-141호",
-    "external_id": "45533",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "하천점용허가 변경 고시(호외발행)",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45532&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-26",
-    "period_start": null,
-    "period_end": null,
-    "target": "하천관리과",
-    "summary": "동래구 고시 제2026-140호",
-    "external_id": "45532",
     "is_new": false
   }
 ]
