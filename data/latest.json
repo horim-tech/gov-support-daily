@@ -1,6 +1,30 @@
 [
   {
     "source": "동래구",
+    "title": "전문건설업 폐업신고 수리공고-성보건설(주)",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45575&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-30",
+    "period_start": null,
+    "period_end": null,
+    "target": "건설과",
+    "summary": "동래구 공고 제2026-1295호",
+    "external_id": "45575",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "2026년 하반기 환경개선부담금 독촉...",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45574&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-10-30",
+    "period_start": null,
+    "period_end": null,
+    "target": "환경위생과",
+    "summary": "동래구 공고 제2026-1294호",
+    "external_id": "45574",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
     "title": "부산광역시 동래구 건축위원회 위원 공개모집 공고",
     "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45570&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
     "posted_date": "2026-10-30",
@@ -9,7 +33,7 @@
     "target": "건축과",
     "summary": "동래구 공고 제2026-1290호",
     "external_id": "45570",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -21,7 +45,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1288호",
     "external_id": "45567",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -33,7 +57,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1287호",
     "external_id": "45566",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -45,7 +69,7 @@
     "target": "세무2과",
     "summary": "동래구 공고 제2026-1286호",
     "external_id": "45565",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -117,7 +141,7 @@
     "target": "안락2동",
     "summary": "동래구 안락2동 공고 제2026-26호",
     "external_id": "45562",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -213,30 +237,6 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1278호",
     "external_id": "45548",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "담배소매인 지정신청(폐업) 공고(세븐일레븐 부산동래캐슬퀸점)",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45538&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-27",
-    "period_start": null,
-    "period_end": null,
-    "target": "일자리경제과",
-    "summary": "동래구 공고 제2026-1269호",
-    "external_id": "45538",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "주민등록 무단전출자에 대한 직권조치 결과 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45544&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-10-27",
-    "period_start": null,
-    "period_end": null,
-    "target": "온천3동",
-    "summary": "동래구 온천3동 공고 제2026-45호",
-    "external_id": "45544",
     "is_new": false
   }
 ]
