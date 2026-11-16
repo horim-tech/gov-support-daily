@@ -1,6 +1,18 @@
 [
   {
     "source": "동래구",
+    "title": "하천점용허가 고시(호외발행)",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45668&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-16",
+    "period_start": null,
+    "period_end": null,
+    "target": "하천관리과",
+    "summary": "동래구 고시 제2026-149호",
+    "external_id": "45668",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
     "title": "2026년 하반기 목조문화유산 순찰근...",
     "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45684&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
     "posted_date": "2026-11-13",
@@ -225,18 +237,6 @@
     "target": "온천3동",
     "summary": "동래구 온천3동 공고 제2026-48호",
     "external_id": "45667",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2026년 주민등록 장기 거주불명자 사실조사에 따른 최고 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45653&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-12",
-    "period_start": null,
-    "period_end": null,
-    "target": "사직1동",
-    "summary": "동래구 사직1동 공고 제2026-15호",
-    "external_id": "45653",
     "is_new": false
   }
 ]
