@@ -1,6 +1,90 @@
 [
   {
     "source": "동래구",
+    "title": "하천점용허가 변경 고시(호외발행)",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45758&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-26",
+    "period_start": null,
+    "period_end": null,
+    "target": "하천관리과",
+    "summary": "동래구 고시 제2026-154호",
+    "external_id": "45758",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "청소년게임제공업 행정처분 공고",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45775&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-26",
+    "period_start": null,
+    "period_end": null,
+    "target": "문화관광과",
+    "summary": "동래구 공고 제2026-1412호",
+    "external_id": "45775",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "2027년 동래구 도서관 기간제근로자 채용 1차 서류심사 합격자 공고",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45759&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-26",
+    "period_start": null,
+    "period_end": null,
+    "target": "평생교육과",
+    "summary": "동래구 공고 제2026-1403호",
+    "external_id": "45759",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "주민등록 무단전출자 최고 공고",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45777&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-26",
+    "period_start": null,
+    "period_end": null,
+    "target": "온천1동",
+    "summary": "동래구 온천1동 공고 제2026-53호",
+    "external_id": "45777",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "사직제1동 통장 공개모집 재공고(2,3통)",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45771&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-26",
+    "period_start": null,
+    "period_end": null,
+    "target": "사직1동",
+    "summary": "동래구 사직1동 공고 제2026-18호",
+    "external_id": "45771",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "2026년 하반기 사직제1동 통장 공...",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45770&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-26",
+    "period_start": null,
+    "period_end": null,
+    "target": "사직1동",
+    "summary": "동래구 사직1동 공고 제2026-17호",
+    "external_id": "45770",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
+    "title": "무단방치 자전거 이동·보관 및 처분 안내 공고",
+    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45768&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
+    "posted_date": "2026-11-25",
+    "period_start": null,
+    "period_end": null,
+    "target": "교통과",
+    "summary": "동래구 공고 제2026-1408호",
+    "external_id": "45768",
+    "is_new": true
+  },
+  {
+    "source": "동래구",
     "title": "2026년 11월 자동차관련과태료 체...",
     "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45763&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
     "posted_date": "2026-11-25",
@@ -9,7 +93,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1407호",
     "external_id": "45763",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -21,7 +105,7 @@
     "target": "아동청소년과",
     "summary": "동래구 공고 제2026-1406호",
     "external_id": "45762",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -33,7 +117,7 @@
     "target": "토지정보과",
     "summary": "동래구 공고 제2026-1401호",
     "external_id": "45756",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -45,7 +129,7 @@
     "target": "일자리경제과",
     "summary": "동래구 공고 제2026-1398호",
     "external_id": "45750",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -57,7 +141,7 @@
     "target": "일자리경제과",
     "summary": "동래구 공고 제2026-1397호",
     "external_id": "45749",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -69,7 +153,7 @@
     "target": "사직3동",
     "summary": "동래구 사직3동 공고 제2026-47호",
     "external_id": "45765",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -81,7 +165,7 @@
     "target": "온천2동",
     "summary": "동래구 온천2동 공고 제2026-20호",
     "external_id": "45764",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -93,7 +177,7 @@
     "target": "복지정책과",
     "summary": "동래구 공고 제2026-1405호",
     "external_id": "45761",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -105,7 +189,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1404호",
     "external_id": "45760",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -117,7 +201,7 @@
     "target": "교통과",
     "summary": "동래구 공고 제2026-1402호",
     "external_id": "45757",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -129,7 +213,7 @@
     "target": "녹지공원과",
     "summary": "동래구 공고 제2026-1400호",
     "external_id": "45753",
-    "is_new": true
+    "is_new": false
   },
   {
     "source": "동래구",
@@ -153,90 +237,6 @@
     "target": "녹지공원과",
     "summary": "동래구 공고 제2026-1396호",
     "external_id": "45748",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "부산광역시동래구 임기제공무원(평생교육...",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45742&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-24",
-    "period_start": null,
-    "period_end": null,
-    "target": "총무과",
-    "summary": "동래구 공고 제2026-1394호",
-    "external_id": "45742",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2027 공무직근로자(사서업무) 채용 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45728&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-24",
-    "period_start": null,
-    "period_end": null,
-    "target": "평생교육과",
-    "summary": "동래구 공고 제2026-1384호",
-    "external_id": "45728",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "주민등록 무단전출자에 대한 최고 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45755&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-24",
-    "period_start": null,
-    "period_end": null,
-    "target": "온천3동",
-    "summary": "동래구 온천3동 공고 제2026-51호",
-    "external_id": "45755",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2026년 주민등록 장기 거주불명자에 대한 직권조치 결과 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45752&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-24",
-    "period_start": null,
-    "period_end": null,
-    "target": "복산동",
-    "summary": "동래구 복산동 공고 제2026-19호",
-    "external_id": "45752",
-    "is_new": true
-  },
-  {
-    "source": "동래구",
-    "title": "2027년 도시공원관리 기간제근로자 ...",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45741&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-23",
-    "period_start": null,
-    "period_end": null,
-    "target": "녹지공원과",
-    "summary": "동래구 공고 제2026-1393호",
-    "external_id": "45741",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2026년 10월 지방소득세 고지서 및 독촉장 공시송달",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45740&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-23",
-    "period_start": null,
-    "period_end": null,
-    "target": "세무1과",
-    "summary": "동래구 공고 제2026-1392호",
-    "external_id": "45740",
-    "is_new": false
-  },
-  {
-    "source": "동래구",
-    "title": "2026년 교통유발부담금 독촉고지서 반송분 공시송달 공고",
-    "url": "https://eminwon.dongnae.go.kr/emwp/gov/mogaha/ntis/web/ofr/action/OfrAction.do?Key=B_Subject&method=selectOfrNotAncmt&methodnm=selectOfrNotAncmtRegst&not_ancmt_mgt_no=45739&not_ancmt_se_code=01,04,05&context=NTIS&homepage_pbs_yn=Y&countYn=Y&subCheck=Y&ofr_pageSize=10",
-    "posted_date": "2026-11-23",
-    "period_start": null,
-    "period_end": null,
-    "target": "교통과",
-    "summary": "동래구 공고 제2026-1391호",
-    "external_id": "45739",
     "is_new": false
   }
 ]
